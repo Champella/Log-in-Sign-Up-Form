@@ -1,6 +1,5 @@
-body {
-	background-color: grey;
-	
+﻿body {
+	background-color: grey;	
 }
 .container {
 	background-color: blue;
@@ -18,13 +17,9 @@ button {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-
 }
 #download {
 	background-color: red;
 	color: white;
-	
 	margin: 50px 50px 50px 50px;
-
-
 }
